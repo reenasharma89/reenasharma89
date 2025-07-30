@@ -6,7 +6,7 @@ Hi! I'm Reena Sharma, a Full Stack Developer and Software Architect with 9+ year
 - Frontend: HTML5, CSS3, JavaScript, Bootstrap, jQuery, Vue.js
 - Backend: PHP, Laravel, CakePHP, Yii, WordPress, Drupal
 - Database: MySQL, Oracle
-- Tools & DevOps: Git, GitHub, Docker (basic), AWS S3 (backups), Trello, JIRA
+- Tools & DevOps: Git, GitHub, Gitlab, Heroku, Docker (basic), AWS S3 (backups), Trello, JIRA
 - CMS Experience: WordPress (custom themes & plugins), Drupal 7–10 (custom content types, views, Twig theming)
 
 ## 🔨 Currently Working On
